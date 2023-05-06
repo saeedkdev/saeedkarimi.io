@@ -9,7 +9,7 @@ pub fn intro() -> Html {
                    <h1 class="text-5xl uppercase font-bold">{"Fullstack Software Developer"}</h1> 
                </div>
             </div>
-            <div class="w-4/12 flex flex-row items-end">
+            <div class="w-4/12 flex flex-row justify-end items-end">
                 <a class="w-10 h-10 flex items-center justify-center 
                 transition duration-200 ease-in-out
                 border border-gray-800 rounded-full hover:bg-gray-800 hover:text-white" href="https://instagram.com/sk.developer">

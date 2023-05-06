@@ -21,15 +21,13 @@ pub fn banner() -> Html {
           <div class="mt-8 flex flex-wrap justify-center gap-4">
             <a
               class="block w-full rounded bg-sky-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-sky-700 focus:outline-none focus:ring active:bg-sky-500 sm:w-auto"
-              href="/get-started"
-            >
+              href="/get-started">
                 {"Get In Touch"}
             </a>
 
             <a
               class="block w-full rounded px-12 py-3 text-sm font-medium text-sky-600 shadow hover:text-sky-700 focus:outline-none focus:ring active:text-sky-500 sm:w-auto"
-              href="/about"
-            >
+              href="/about">
                 {"About Me"}
             </a>
           </div>
